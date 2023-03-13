@@ -12,11 +12,11 @@ function route(app) {
   //     // console.log(req.query);
   //   });
 
-  //   app.post("/search", (req, res) => {
-  //     // res.render("search");
-  //     // console.log(req.query);
-  //     console.log(req.body);
-  //     res.send("");
-  //   });
+  // app.post("/search", (req, res) => {
+  //   // res.render("search");
+  //   // console.log(req.query);
+  //   console.log(req.body);
+  //   res.send("");
+  // });
 }
 module.exports = route;
